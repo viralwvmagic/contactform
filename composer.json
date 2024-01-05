@@ -1,5 +1,5 @@
 {
-    "name": "Blattnertech/contactform",
+    "name": "blattnertech/contactform",
     "autoload": {
         "psr-4": {
             "Blattnertech\\Contactform\\": "src/"
