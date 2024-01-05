@@ -1,5 +1,6 @@
 {
     "name": "viralpatelbt/contactform",
+    "license": "MIT",
     "autoload": {
         "psr-4": {
             "Blattnertech\\Contactform\\": "src/"
