@@ -1,0 +1,15 @@
+{
+    "name": "Blattnertech/contactform",
+    "autoload": {
+        "psr-4": {
+            "Blattnertech\\Contactform\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Viral Patel",
+            "email": "viral.patel@blattnertech.com"
+        }
+    ],
+    "require": {}
+}
