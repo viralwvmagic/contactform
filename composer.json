@@ -1,5 +1,5 @@
 {
-    "name": "blattnertech/contactform",
+    "name": "viralpatelbt/contactform",
     "autoload": {
         "psr-4": {
             "Blattnertech\\Contactform\\": "src/"
